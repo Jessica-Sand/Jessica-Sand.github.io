@@ -1,0 +1,50 @@
+
+/** Variables **/
+:root {
+    --font: "Outfit", sans-serif;
+    --light-blue: hsl(212, 45%, 89%);
+    --medium-blue: hsl(216, 15%, 48%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+/**********************/
+
+body {
+    background-color: var(--light-blue);
+}
+.content {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 16px 16px 40px 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.content__img {
+    border-radius: 10px;
+    height: 288px;
+    width: 288px;
+}
+.content__text {
+    text-align: center;
+    max-width: 288px;
+    font-family: var(--font);
+    padding-top: 24px;
+}
+.content__text .text-title {
+    font-weight: 700;
+    color: var(--dark-blue);
+    font-size: 22px;
+    line-height: 120%;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 16px;
+}
+.content__text .text-labor {
+    font-weight: 400;
+    color: var(--medium-blue);
+    font-size: 15px;
+    line-height: 140%;
+    padding-left: 16px;
+    padding-right: 16px;
+}

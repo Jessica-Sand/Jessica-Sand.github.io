@@ -13,38 +13,36 @@ body {
 }
 .content {
     background-color: #ffffff;
-    border-radius: 10px;
-    padding: 16px 16px 40px 16px;
+    border-radius: 1.25em;
+    padding: 1em 1em 2.5em 1em;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 .content__img {
-    border-radius: 10px;
-    height: 288px;
-    width: 288px;
+    border-radius: 0.625em;
+    height: 18em;
+    width: 18em;
 }
 .content__text {
     text-align: center;
-    max-width: 288px;
+    max-width: 18em;
     font-family: var(--font);
-    padding-top: 24px;
+    padding-top: 1.5em;
 }
 .content__text .text-title {
     font-weight: 700;
     color: var(--dark-blue);
-    font-size: 22px;
+    font-size: 1.375em;
     line-height: 120%;
-    padding-left: 16px;
-    padding-right: 16px;
-    margin-bottom: 16px;
+    margin-bottom: 1em;
 }
 .content__text .text-labor {
     font-weight: 400;
     color: var(--medium-blue);
-    font-size: 15px;
+    font-size: 0.938em;
     line-height: 140%;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 1em;
+    padding-right: 1em;
 }

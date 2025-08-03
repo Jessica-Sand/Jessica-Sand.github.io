@@ -13,19 +13,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://jessica-sand.github.io)
 
 ## My process
 
@@ -33,28 +32,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 
 ### What I learned
 
+I learned how to center the elements in the middle of the screen something that I never know to do.
+And I learned how to do pixel perfect, I hope so.
 
 ### Continued development
 
+I would like to improve my css knowledge to avoid wasting time in research just to style simple things.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://www.w3schools.com/csS/css_align.asp) - This helped me the center  vertically the element of the screan.
+- [Resource 2](https://www.joshwcomeau.com/css/pixel-perfection/) - This is an amazing article which helped me finally to understand how to be pixel perfect.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-
-
-## Acknowledgments
-
+- Frontend Mentor - [@Jessica-Sand](https://www.frontendmentor.io/profile/Jessica-Sand)
+- Github - (https://github.com/Jessica-Sand)
